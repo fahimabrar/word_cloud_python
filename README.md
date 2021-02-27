@@ -13,6 +13,8 @@ The speech notes scrapped from [this website](http://obamaspeeches.com/)
 
 ###### Result
 
-![]()https://i.ibb.co/RHs8d0F/download.png)
+
+
+![](https://i.ibb.co/RHs8d0F/download.png)
 
 
